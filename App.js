@@ -6,7 +6,7 @@ import Button from 'apsl-react-native-button'
 // You can also use CriticalErrors to react to different kind of errors preventing tracking (ex: permissions deined)
 import {CriticalErrors, HyperTrack} from 'hypertrack-sdk-react-native';
 
-const PUBLISHABLE_KEY = "Paste_your_publishable_key_here";
+const PUBLISHABLE_KEY = "S5pnly9sppaCgkMiDiVTUd5QVKSwnmb-5Gektww6ueDpH_176txX6rewq7EnJ0_JjrQZY9bM3eutaQ7ZqXvpXg";
 
 export default class HyperTrackQuickstart extends Component {
 
