@@ -1,29 +1,4 @@
-# React Native Quickstart for HyperTrack SDKs
-
-![GitHub](https://img.shields.io/github/license/hypertrack/quickstart-react-native.svg)
-[![RN SDK](https://img.shields.io/npm/v/hypertrack-sdk-react-native.svg)](https://www.npmjs.com/package/hypertrack-sdk-react-native)
-[![iOS SDK](https://img.shields.io/badge/iOS%20SDK-3.7.0-brightgreen.svg)](https://cocoapods.org/pods/HyperTrack)
-![Android SDK](https://img.shields.io/badge/Android%20SDK-3.4.6-brightgreen.svg)
-
-[HyperTrack](https://www.hypertrack.com) lets you add live location tracking to your mobile app. Live location is made available along with ongoing activity, tracking controls and tracking outage with reasons. This repo contains an example React Native app that has everything you need to get started in minutes.
-
-* [Publishable Key](#publishable-key)–Sign up and get your keys
-* [Quickstart](#quickstart-app)–Start with a ready-to-go app with reliable background service
-* [Integrate the SDK](#integrate-the-sdk)–Integrate the SDK into your app
-* [Dashboard](#dashboard)–See live location of all your devices on your HyperTrack dashboard
-* [FAQs](#frequently-asked-questions)–Frequently asked questions
-* [Support](#support)–Support
-
-## Publishable Key
-
-We use Publishable Key to identify your devices. To get one:
-1. Go to the [Signup page](https://dashboard.hypertrack.com/signup). Enter your email address and password.
-2. Open the verification link sent to your email.
-3. Open the [Setup page](https://dashboard.hypertrack.com/setup), where you can copy your Publishable Key.
-
-![Signup flow](Images/Signup_flow.png)
-
-Next, you can [start with the Quickstart app](#quickstart-app), or can [integrate the React Native SDK](#integrate-the-react-native-sdk) in your app.
+You can [start with the Quickstart app](#quickstart-app), or can [integrate the React Native SDK](#integrate-the-react-native-sdk) in your app.
 
 ## Quickstart app
 
